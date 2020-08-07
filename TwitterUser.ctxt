@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TwitterUser
+comment0.text=\n\ This\ object\ represents\ a\ twitter\ user\ and\ contains\ their\ name\ id\ tweet\ count\n\ and\ story\ count\n\n\ @author\ Farzana\ Patwa\ Anushri\ Jhunjhunwala\n\ @version\ 12/5/19\n
+comment1.params=n\ u\ t\ s
+comment1.target=TwitterUser(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TwitterUser\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ gets\ the\ name\ of\ the\ twitter\ user\n\ \n\ @return\ String\ -\ name\ of\ the\ user\n
+comment3.params=
+comment3.target=java.lang.String\ getID()
+comment3.text=\n\ gets\ the\ id\ of\ the\ twitter\ user\n\ \n\ @return\ String\ -\ id\ of\ the\ user\n
+comment4.params=
+comment4.target=int\ getTweetCount()
+comment4.text=\n\ gets\ the\ tweet\ count\ of\ the\ twitter\ user\n\ \n\ @return\ int\ -\ tweet\ count\ of\ the\ user\n
+comment5.params=
+comment5.target=int\ getStoryCount()
+comment5.text=\n\ gets\ the\ story\ count\ of\ the\ twitter\ user\n\ \n\ @return\ int\ -\ story\ count\ of\ the\ user\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\ \n\ Returns\ a\ string\ representation\ of\ the\ twitter\ user\ \n\ \n\ @return\ String\ -\ representation\ of\ the\ object\n\ \n
+numComments=7
